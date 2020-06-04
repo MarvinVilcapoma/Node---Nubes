@@ -1,0 +1,19 @@
+{
+    "name": "node",
+    "version": "1.0.0",
+    "description": "Examen- Nubes",
+    "main": "app.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "nodejs",
+      "bootstrap",
+      "express"
+    ],
+    "dependencies": {
+      "express": "^4.16.4"
+    },
+    "author": "Vilcapoma Flores Friman",
+    "license": "MIT"
+  }
